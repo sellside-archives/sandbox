@@ -1,0 +1,25 @@
+{
+  "name": "sandbox",
+  "description": "API testing",
+  "version": "0.1.0",
+  "homepage": "https://github.com/sellside/sandbox",
+  "author": "Jon Schlinkert (https://github.com/jonschlinkert)",
+  "repository": "sellside/sandbox",
+  "bugs": {
+    "url": "https://github.com/sellside/sandbox/issues"
+  },
+  "license": "MIT",
+  "files": [
+    "index.js"
+  ],
+  "main": "index.js",
+  "engines": {
+    "node": ">=4"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "sandbox"
+  ]
+}
